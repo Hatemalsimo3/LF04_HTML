@@ -3,20 +3,17 @@ body{
 
     font-size:medium;              /*       Schrift größen      */
 
-    background-color :bisque;   /*           Seiten hintergerund                        */
+    background-color : #374f9e;   /*           Seiten hintergerund                        */
 
-    text-align : -webkit-center;  /*         Die positions des  inhalt        */
-
-    omargin-top :fill;
+                                      /*         Die positions des  inhalt        */
+    text-shadow: seashell;
+    omargin-top :inherit;
     margin: initial;
     padding-left:revert;
     color:Black;
     text-decoration:Black;
     cursor:revert;
     font-weight:bolder;
-
-
-
 
 
 
