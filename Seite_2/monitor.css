@@ -1,23 +1,25 @@
-body{
-    font-family:"Arial Narrow"; /*          Schrift Arten           */
+body {
+    font-family: "Arial Narrow"; /*          Schrift Arten           */
 
-    font-size:medium;              /*       Schrift größen      */
+    font-size: medium; /*       Schrift größen      */
 
-    background-color :bisque;   /*           Seiten hintergerund                        */
+    background-color: bisque; /*           Seiten hintergerund                        */
 
-    text-align : -webkit-center;  /*         Die positions des  inhalt        */
+    text-align: -webkit-center; /*         Die positions des  inhalt        */
 
-    omargin-top :fill;
+    omargin-top: fill;
     margin: initial;
-    padding-left:revert;
-    color:Black;
-    text-decoration:Black;
-    cursor:revert;
-    font-weight:bolder;
-
-
-
-
-
-
+    padding-left: revert;
+    color: Black;
+    text-decoration: Black;
+    cursor: revert;
+    font-weight: bolder;
 }
+
+
+
+
+
+
+
+

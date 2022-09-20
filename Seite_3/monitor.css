@@ -1,20 +1,28 @@
-body{
-    font-family:"Arial Narrow"; /*          Schrift Arten           */
+body {
+    font-family: "Arial Narrow"; /*Schrift Arten*/
+    font-size: medium;             /*  Schrift größen */
+    background-image: linear-gradient(90deg, #1a399a, #e7dcf5, #b441e1);
+    background-size: auto;
+    text-align: left;
+    omargin-top:auto;
 
-    font-size:medium;              /*       Schrift größen      */
-
-    background-color : #374f9e;   /*           Seiten hintergerund                        */
-
-                                      /*         Die positions des  inhalt        */
-    text-shadow: seashell;
-    omargin-top :inherit;
-    margin: initial;
-    padding-left:revert;
-    color:Black;
-    text-decoration:Black;
-    cursor:revert;
-    font-weight:bolder;
+}
+.Tabelle1{
+    margin-left: auto;
+    text-align: left;
 
 
+}
+.schriftfarbe{
+    color: rgba(226, 234, 20, 0.99);
 
+}
+.schriftschaten{
+    text-shadow: 5px 5px 4px #777;
+
+
+}
+.überschrifttabelle1{
+    color: white;
+    text-shadow: 4px 4px 4px #777;
 }
